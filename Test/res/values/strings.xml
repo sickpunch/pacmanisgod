@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Test</string>
+    <string name="hello_world">Stefcho, shte go klatime li?</string>
+    <string name="menu_settings">Settings</string>
+
+</resources>
